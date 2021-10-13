@@ -7,4 +7,4 @@ echo ""
 cp Termux-api.apk cd /sdcard/  > /dev/null 2>1
 echo -e "\e[1;32m You have installed the Termux api apk on your storage and installed it\e[0m"
 echo ""
-echo -e "\e[1;32m The installation process is complete \e[0m"
+
